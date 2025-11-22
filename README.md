@@ -13,7 +13,6 @@ So, I built **TaxMate** — an AI-first, document-driven tax assistant designed 
 <img width="128" height="285" alt="Screenshot_1763632903" src="https://github.com/user-attachments/assets/30fe9af7-61b6-4187-93f9-32d93a662c45" />
 <img width="128" height="285" alt="Screenshot_1763632912" src="https://github.com/user-attachments/assets/c401a9bc-afcd-4528-8a20-7586af3cdc3f" />
 <img width="128" height="285" alt="Screenshot_1763632914" src="https://github.com/user-attachments/assets/6d2b7289-8f29-41be-98eb-5382487a93bf" />
-<img width="128" height="285" alt="Screenshot_1763632919" src="https://github.com/user-attachments/assets/d612275d-b8ae-47fb-8460-cb4f40715d08" />
 
 <br><br>
 
